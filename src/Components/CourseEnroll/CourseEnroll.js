@@ -11,7 +11,7 @@ const CourseEnroll = (props) => {
                 <img src={img} alt="" />
             </div>
             <div className='title-container'>
-                <h4 className="course-title">Course Name : {title}</h4>
+                <h4 className="course-title">{title}</h4>
                 <br />
                 <p>by : {name}</p>
                 <p>Price : ${price}</p>
