@@ -1,0 +1,10 @@
+.course-items-container{
+    display: flex;
+    margin-top: 50px;
+}
+.course-container{
+    width:70%;
+    margin-left: 60px;
+    margin-right: 50px;
+    border-right: 2px solid lightgray;
+}
